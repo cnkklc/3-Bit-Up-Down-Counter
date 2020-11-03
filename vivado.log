@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Nov  4 02:40:29 2020
+# Process ID: 12996
+# Current directory: C:/Users/CK/Desktop/3bitupdowncounter/updown_counter
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8880 C:\Users\CK\Desktop\3bitupdowncounter\updown_counter\updown_counter.xpr
+# Log file: C:/Users/CK/Desktop/3bitupdowncounter/updown_counter/vivado.log
+# Journal file: C:/Users/CK/Desktop/3bitupdowncounter/updown_counter\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/CK/Desktop/3bitupdowncounter/updown_counter/updown_counter.xpr
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+INFO: [Common 17-344] 'open_project' was cancelled
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Nov  4 02:40:42 2020...
